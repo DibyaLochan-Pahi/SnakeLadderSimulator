@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\bin\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.exe
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\bin\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.deps.json
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\bin\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.runtimeconfig.json
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\bin\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.runtimeconfig.dev.json
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\bin\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.dll
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\bin\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.pdb
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\obj\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\obj\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\obj\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\obj\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.AssemblyInfo.cs
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\obj\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\obj\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.dll
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\obj\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.pdb
+C:\Users\hp\Desktop\SnakeandLadder\UC2RollDiceAndGetNumber\UC2RollDiceAndGetNumber\obj\Debug\netcoreapp3.1\UC2RollDiceAndGetNumber.genruntimeconfig.cache
