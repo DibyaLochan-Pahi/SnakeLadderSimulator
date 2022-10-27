@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\bin\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.exe
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\bin\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.deps.json
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\bin\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.runtimeconfig.json
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\bin\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.runtimeconfig.dev.json
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\bin\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.dll
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\bin\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.pdb
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\obj\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\obj\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\obj\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\obj\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\obj\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\obj\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.dll
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\obj\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.pdb
+C:\Users\hp\Desktop\SnakeandLadder\LudoUC\UC1GamePlaySinglePlayer\UC1GamePlaySinglePlayer\obj\Debug\netcoreapp3.1\UC1GamePlaySinglePlayer.genruntimeconfig.cache
